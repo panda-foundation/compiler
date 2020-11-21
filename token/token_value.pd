@@ -1,0 +1,6 @@
+namespace compiler.token;
+
+public class token_value
+{
+    
+}
